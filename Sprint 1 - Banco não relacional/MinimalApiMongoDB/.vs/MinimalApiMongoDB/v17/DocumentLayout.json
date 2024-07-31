@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\minimalapimongodb\\minimalapimongodb\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\minimalapimongodb\\minimalapimongodb\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\minimalapimongodb\\minimalapimongodb\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|solutionrelative:minimalapimongodb\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\minimalapimongodb\\minimalapimongodb\\viewmodels\\postorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|solutionrelative:minimalapimongodb\\viewmodels\\postorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\minimalapimongodb\\minimalapimongodb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D554244D-3341-4490-86A7-9712CF754ADC}|MinimalApiMongoDB\\MinimalApiMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "MinimalApiMongoDB\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "MinimalApiMongoDB\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwIsAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:01:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\ViewModels\\PostOrderViewModel.cs",
+              "RelativeDocumentMoniker": "MinimalApiMongoDB\\ViewModels\\PostOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\ViewModels\\PostOrderViewModel.cs",
+              "RelativeToolTip": "MinimalApiMongoDB\\ViewModels\\PostOrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:50:16.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Domains\\Order.cs",
+              "RelativeDocumentMoniker": "MinimalApiMongoDB\\Domains\\Order.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Domains\\Order.cs",
+              "RelativeToolTip": "MinimalApiMongoDB\\Domains\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:26:44.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MinimalApiMongoDB\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MinimalApiMongoDB\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:23:13.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MinimalApiMongoDB\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MinimalApiMongoDB\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAA3wLMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:11:44.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

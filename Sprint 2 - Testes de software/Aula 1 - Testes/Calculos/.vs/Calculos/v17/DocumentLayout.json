@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{104C0900-46AC-4B51-B7E0-21DF55330735}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\aula 1 - testes\\calculos.test\\calculounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC43AD-2A07-4978-8034-9F6C920EE994}|Calculos.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\aula 1 - testes\\calculos\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEC43AD-2A07-4978-8034-9F6C920EE994}|Calculos.csproj|solutionrelative:calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC43AD-2A07-4978-8034-9F6C920EE994}|Calculos.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\aula 1 - testes\\calculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEC43AD-2A07-4978-8034-9F6C920EE994}|Calculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104C0900-46AC-4B51-B7E0-21DF55330735}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\aula 1 - testes\\calculos.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeToolTip": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:34:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Calculos.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:31:11.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos\\Calculo.cs",
+              "RelativeDocumentMoniker": "Calculo.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos\\Calculo.cs",
+              "RelativeToolTip": "Calculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:22:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Aula 1 - Testes\\Calculos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:18:51.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

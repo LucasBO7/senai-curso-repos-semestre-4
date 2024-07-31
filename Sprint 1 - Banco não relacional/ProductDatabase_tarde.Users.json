@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "66a2a8ddb5feb9ad2cd1dbf7"
+  },
+  "nome": "Chicken Little",
+  "idade": "71"
+},
+{
+  "_id": {
+    "$oid": "66a2a96eb5feb9ad2cd1dbf9"
+  },
+  "nome": "Lima",
+  "endereco": "Óca de yamemami"
+},
+{
+  "_id": {
+    "$oid": "66a2a9a6b5feb9ad2cd1dbfc"
+  },
+  "name": "Matos"
+},
+{
+  "_id": {
+    "$oid": "66a2aa57b5feb9ad2cd1dbfe"
+  },
+  "nome": "Mateus",
+  "telefone": [
+    "79982005",
+    "325487577",
+    "522154463"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a2ab33b5feb9ad2cd1dc00"
+  },
+  "name": "Meitor",
+  "estudante": true,
+  "presenca": [
+    "24/02",
+    "25/07"
+  ],
+  "salario": 13000.67,
+  "nascimento": {
+    "$code": "Mon Apr 14 2003 21:00:00 GMT-0300 (Horário Padrão de Brasília)",
+    "$scope": {}
+  }
+}]
