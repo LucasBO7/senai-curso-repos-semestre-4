@@ -2,18 +2,21 @@
 {
     public class CalculoUnitTest
     {
+        // Princípio AAA: Act, Arrange e Assert
+        // Princípio AAA: Agir, Organizar e Provar
         [Fact]
         public void SomarDoisNumeros()
         {
+            // Organizar (Arrange)
             double n1 = 3.3;
             double n2 = 2.2;
             double valorEsperado = 5.5;
 
-            // Execulta a função de soma e retorna o resultado da operação
-            double resultadoSoma = Calculo.Somar(n1, n2);
+            // Agir (Act)
+            double resultadoSoma = Calculo.Somar(n1, n2); // Execulta a função de soma e retorna o resultado da operação
 
-            // Verifica se os valores dos parâmetros são iguais
-            Assert.Equal(valorEsperado, resultadoSoma);
+            // Provar (Assert)
+            Assert.Equal(valorEsperado, resultadoSoma); // Verifica se os valores dos parâmetros são iguais
         }
 
         [Fact]

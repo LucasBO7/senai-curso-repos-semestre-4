@@ -1,0 +1,15 @@
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\bin\Debug\net8.0\ConversaoTemperaturaConsole.exe
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\bin\Debug\net8.0\ConversaoTemperaturaConsole.deps.json
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\bin\Debug\net8.0\ConversaoTemperaturaConsole.runtimeconfig.json
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\bin\Debug\net8.0\ConversaoTemperaturaConsole.dll
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\bin\Debug\net8.0\ConversaoTemperaturaConsole.pdb
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.AssemblyInfoInputs.cache
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.AssemblyInfo.cs
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.csproj.CoreCompileInputs.cache
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.sourcelink.json
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.dll
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\refint\ConversaoTemperaturaConsole.dll
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.pdb
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ConversaoTemperaturaConsole.genruntimeconfig.cache
+C:\Users\41365718875\Desktop\senai-curso-repos-trimestre-3\Sprint 2 - Testes de software\Exercicios\ConversaoTemperatura\ConversaoTemperaturaConsole\obj\Debug\net8.0\ref\ConversaoTemperaturaConsole.dll

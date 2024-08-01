@@ -165,7 +165,7 @@ namespace MinimalApiMongoDB.Controllers
             }
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<ActionResult> Update(string id, Order newOrder)
         {
             try
@@ -176,14 +176,14 @@ namespace MinimalApiMongoDB.Controllers
                 Order orderToInsert = new()
                 {
                     Id = clientInDb.Id,
-                    Date = newOrder.Date == null? clientInDb.Date : newOrder.Date,
-                    //Status = String.IsNullOrEmpty(newClientUserViewModel.Address) ? clientInDb.Address : newClientUserViewModel.Address,
-
-
+                    Date = newOrder.Date == null ? clientInDb.Date : newOrder.Date,
+                    Status = clientInDb.Status,
+                    ClientId = clientInDb.ClientId,
+                    ProductsIds = clientInDb.ProductsIds
                 };
 
-                await _order.ReplaceOneAsync(o => o.Id.ToString() == id, newOrder);
-
+                await _order.ReplaceOneAsync(o => o.Id.ToString() == id, orderToInsert);
+                return Ok("Atualizado com sucesso!");
             }
             catch (Exception exc)
             {

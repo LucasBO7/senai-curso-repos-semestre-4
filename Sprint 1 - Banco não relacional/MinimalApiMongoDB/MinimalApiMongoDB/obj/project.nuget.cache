@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "10koPlWma3M5ZKQE+xoDUNcCH04VpBFxNaGBd8wp1fg23PoUNxwiZfai7aYbZ8GABoylJ4IPPQRtYpH8pMcDHg==",
+  "dgSpecHash": "54VDCJP7RpK0oAwmeU1h3iGnMqsvNTI/GZWyTnZUTqIjR7kl3VX6wyp+z5OwUNEPiFTmpZG+2XWU+tjK939Djg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
+  "projectFilePath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\41365718875\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\41365718875\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

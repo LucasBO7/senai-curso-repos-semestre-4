@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D45776A-4646-4E6F-A289-A565FC01EDD3}|..\\ControleInventario.Test\\ControleInventario.Test.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\exercicios\\controleinventario\\controleinventario.test\\controleinventariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\exercicios\\controleinventario\\controleinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D45776A-4646-4E6F-A289-A565FC01EDD3}|..\\ControleInventario.Test\\ControleInventario.Test.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\exercicios\\controleinventario\\controleinventario.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\exercicios\\controleinventario\\controleinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\exercicios\\controleinventario\\controleinventario\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369E5DFB-D085-4CAB-A6C2-9EB02E09FE91}|ControleInventario.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControleInventarioTest.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario.Test\\ControleInventarioTest.cs",
+              "RelativeDocumentMoniker": "..\\ControleInventario.Test\\ControleInventarioTest.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario.Test\\ControleInventarioTest.cs",
+              "RelativeToolTip": "..\\ControleInventario.Test\\ControleInventarioTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:17:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ControleInventario.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ControleInventario.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:17:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:01:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Inventario.cs",
+              "RelativeToolTip": "Inventario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:00:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\Exercicios\\ControleInventario\\ControleInventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:58:17.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

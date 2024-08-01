@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConversaoTemperaturaConsole/1.0.0": {
+        "runtime": {
+          "ConversaoTemperaturaConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversaoTemperaturaConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

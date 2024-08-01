@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj": {}
+    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj": {
+    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
+        "projectUniqueName": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
         "projectName": "MinimalApiMongoDB",
-        "projectPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
+        "projectPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\MinimalApiMongoDB.csproj",
         "packagesPath": "C:\\Users\\41365718875\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\MinimalApiMongoDB\\MinimalApiMongoDB\\obj\\",
+        "outputPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 1 - Banco não relacional\\MinimalApiMongoDB\\MinimalApiMongoDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\41365718875\\AppData\\Roaming\\NuGet\\NuGet.Config",
