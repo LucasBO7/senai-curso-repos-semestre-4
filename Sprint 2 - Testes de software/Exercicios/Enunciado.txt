@@ -1,0 +1,14 @@
+Exercícios Propostos: 
+
+  Exercício 1: Teste de Gerenciamento de Livros  
+  Crie um teste unitário para o método AdicionarLivro que verifica se um livro é adicionado corretamente a uma lista de livros.  
+  Exercício 2: Teste de Validação de Email  (Pesquisar sobre [InlineData] e [Theory] )
+  Crie um teste unitário para o método ValidarEmail que verifica se um email é validado corretamente. 
+  Exemplo: se o email passado contém "@"  e  " . "
+  Exercício 3: Teste de Conversão de Temperatura
+  Crie um teste unitário para o método ConverterCelsiusParaFahrenheit que verifica se a conversão de Celsius para Fahrenheit é calculada corretamente.
+  Exercício 4: Teste de Controle de Inventário
+  Crie um teste unitário para o método AdicionarProduto que verifica se um produto(nome e quantidade) é adicionado corretamente ao inventário (se já houver um produto incrementar a quantidade, senão adicione).
+  Teste também um método para obter a quantidade de um produto buscando pelo nome.
+Tópicos da aula:
+[ ] Entregar em um repositório com a resolução  dos exercícios propostos na atividade e o relatório de testes conforme modelo anexado na aula.

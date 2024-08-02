@@ -12,8 +12,6 @@ namespace ControleInventario
 
         public void AdicionarProduto(Produto novoProduto)
         {
-            //Produto produtoBuscado = Produtos.FirstOrDefault(novoProduto);
-            //produtoBuscado.Quantidade++;
             if (Produtos.Contains(novoProduto))
                 Produtos.FirstOrDefault(novoProduto).Quantidade++;
             else
