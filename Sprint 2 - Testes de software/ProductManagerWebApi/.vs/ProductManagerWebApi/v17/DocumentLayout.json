@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\interfaces\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:interfaces\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|c:\\users\\41365718875\\desktop\\senai-curso-repos-trimestre-3\\sprint 2 - testes de software\\productmanagerwebapi\\infra\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E72CBF-53F3-47FD-AADE-D9EC21160545}|ProductManagerWebApi.csproj|solutionrelative:infra\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:28:10.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwE8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:02:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductsRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:14:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Infra\\Context.cs",
+              "RelativeDocumentMoniker": "Infra\\Context.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Infra\\Context.cs",
+              "RelativeToolTip": "Infra\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:02:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Interfaces\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductsRepository.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Interfaces\\IProductsRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductsRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:57:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\Domains\\Product.cs",
+              "RelativeToolTip": "Domains\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:51:20.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
