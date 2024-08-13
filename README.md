@@ -7,3 +7,6 @@ Repositório para o terceiro trimestre do curso Técnico de Desenvolvimento de S
 ## Testes de software - Sprint 2
 - **Sprint 2 - Testes de software/Aula 1 - Testes/Calculos -->** testes de software unitários com projeto console simples.
 - **Sprint 2 - Testes de software/Aula 1 - Testes/Exercicios -->** exercícios de testes de software unitários com projetos console.
+
+## Exercicios Revisao
+Guarda alguns exercícios passados para serem realizados durante período de revisão geral, mais especificamente, de logíca de programação.
