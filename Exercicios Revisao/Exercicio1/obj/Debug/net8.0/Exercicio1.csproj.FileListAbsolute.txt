@@ -1,0 +1,15 @@
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\bin\Debug\net8.0\Exercicio1.exe
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\bin\Debug\net8.0\Exercicio1.deps.json
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\bin\Debug\net8.0\Exercicio1.runtimeconfig.json
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\bin\Debug\net8.0\Exercicio1.dll
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\bin\Debug\net8.0\Exercicio1.pdb
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.sourcelink.json
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.dll
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\refint\Exercicio1.dll
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.pdb
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
+C:\Users\Batata Voadora\Desktop\senai-curso-repos-trimestre-3\Exercicios Revisão\Exercicio1\obj\Debug\net8.0\ref\Exercicio1.dll
