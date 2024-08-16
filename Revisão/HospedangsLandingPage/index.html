@@ -6,10 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hospedagens</title>
     <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/footer.css" />
 </head>
 
 <body>
     <header>
+
         <a id="website-logo" href="/">
             <img src="/assets/logo-branca.png" alt="Logo do site">
         </a>
@@ -19,15 +21,14 @@
             <a href="">Contato</a>
             <a href="">Entrar</a>
 
-            <a href="">Cadastrar-se</a>
+            <a id="header-btn" href="">Cadastrar-se</a>
         </nav>
     </header>
 
     <main>
         <!-- About Section -->
-        <section>
+        <section id="about-section">
             <div>
-
                 <h2>As melhores hospedagens do Brasil</h2>
                 <p>Mais de 500 mil reservas esperando por você! Basta procurar pelo local ideal, e realizar a viagem dos
                     seus sonhos</p>
@@ -36,11 +37,160 @@
             <img src="/assets/mapa-brasil.png" alt="">
         </section>
 
+        <div id="filters-section">
+            <div id="layout-grid">
+                <form id="filters-form" action="">
+                    <div>
+                        <img src="" alt="">
+                        <input type="text" placeholder="Qual o local desejado?">
+                    </div>
 
+                    <div>
+                        <img src="" alt="">
+                        <input type="date">
+                    </div>
 
+                    <div>
+                        <img src="" alt="">
+                        <input type="date">
+                    </div>
+
+                    <div>
+                        <button type="submit">Procurar hotel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Travel Places Section -->
+        <section id="travel-places-section">
+            <div id="layout-grid">
+                <article id="place-card">
+                    <img id="card-img" src="assets/angra-dos-reis.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Angra dos reis</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Desfrute de um paraíso tropical em nossa pousada! Relaxe em nossas piscinas com vista para o mar.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/arraial-do-cabo.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Arraial do cabo</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Conecte-se com a natureza em Arraial do Cabo! Nossa pousada está localizada próximo às praias.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/treze-tilias.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Treze Tílias</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Viva a experiência de um vilarejo europeu no Brasil! Nossa pousada em Treze Tílias é perfeita.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/ipanema.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Ipanema</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Explore a rica cultura e história de Ipanema! Nossa pousada é o ponto de partida ideal para
+                        conhecer.</p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/angra-dos-reis.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Angra dos reis</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Desfrute de um paraíso tropical em nossa pousada! Relaxe em nossas piscinas com vista para o mar.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/arraial-do-cabo.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Arraial do cabo</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Conecte-se com a natureza em Arraial do Cabo! Nossa pousada está localizada próximo às praias.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/treze-tilias.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Treze Tílias</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Viva a experiência de um vilarejo europeu no Brasil! Nossa pousada em Treze Tílias é perfeita.
+                    </p>
+                </article>
+
+                <article id="place-card">
+                    <img id="card-img" src="assets/ipanema.jpg" alt="">
+
+                    <div id="titles">
+                        <h2>Ipanema</h2>
+                        <p id="place-state">RJ</p>
+                    </div>
+
+                    <p>Explore a rica cultura e história de Ipanema! Nossa pousada é o ponto de partida ideal para
+                        conhecer.</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- Promotions Section -->
+        <section id="promotions-section">
+            <div id="layout-grid">
+                <div id="text-box">
+                    <h3>Venha conferir os melhores <span class="color-blue">hoteis</span> com as melhores <span
+                            class="color-green">promoções</span> do país</h3>
+                    <h4><span class="color-green">Não perca tempo</span> e venha conferir o que há de <span
+                            class="color-yellow">melhor</span> na hotelagem brasileira</h4>
+                </div>
+
+                <img src="assets/travel.png" alt="">
+            </div>
+        </section>
     </main>
 
-    <footer></footer>
+    <footer>
+        <div id="upper-footer">
+            <img id="bubble-img-fst" src="assets/bubbles-bg.png" alt="">
+            <h5>Fale com um de nossos acessores</h5>
+            <p>hospedagens@contato.com.br</p>
+            <p>(11) 0800-707-0707</p>
+            <img id="bubble-img-snd" src="assets/bubbles-bg.png" alt="">
+        </div>
+        
+        <div id="lower-footer">
+            <img src="assets/logo-preta.png" alt="">
+        </div>
+    </footer>
 </body>
 
 </html>

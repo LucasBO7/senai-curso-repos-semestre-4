@@ -1,0 +1,63 @@
+@font-face {
+    font-family: Inter;
+    src: url('/assets/fonts/Inter/Inter-VariableFont_opsz\,wght.ttf');
+}
+
+
+footer {
+    height: 213px;
+    width: 100%;
+    color: white;
+}
+
+footer>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer #upper-footer {
+    height: 163px;
+    width: 100%;
+
+    background: linear-gradient(90deg, #009C3B 0%, #009538 100%);
+
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+}
+
+footer #upper-footer h5 {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+
+    margin-bottom: 20px;
+}
+
+footer #upper-footer p:first-of-type {
+    margin-bottom: 10px;
+}
+
+footer #lower-footer {
+    height: 50px;
+    width: 100%;
+    background-color: #FFDF00;
+}
+
+footer #upper-footer #bubble-img-fst {
+    position: absolute;
+    left: 0;
+    width: 319px;
+    height: 161px;
+}
+footer #upper-footer #bubble-img-snd {
+    position: absolute;
+    right: 0;
+    width: 319px;
+    height: 161px;
+    transform: scaleX(-1);
+}
