@@ -4,22 +4,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hospedagens</title>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <title>Hospedagens.com</title>
     <link rel="stylesheet" href="/style.css" />
     <link rel="stylesheet" href="/footer.css" />
+    <link rel="stylesheet" href="/header.css">
 </head>
 
 <body>
     <header>
+        <div id="menu-hamburguer-box">
+            <input type="checkbox" id="checkbox">
+            <label for="checkbox" class="toggle">
+                <div class="bars" id="bar1"></div>
+                <div class="bars" id="bar2"></div>
+                <div class="bars" id="bar3"></div>
+            </label>
+        </div>
 
         <a id="website-logo" href="/">
             <img src="/assets/logo-branca.png" alt="Logo do site">
         </a>
 
-        <nav>
-            <a href="">Hotéis</a>
-            <a href="">Contato</a>
-            <a href="">Entrar</a>
+        <nav id="nav-box" class="nav-box-closed">
+            <div class="blurred"></div>
+            <div id="navigation-links">
+                <a href="/">Hotéis</a>
+                <a href="/">Contato</a>
+                <a href="/">Entrar</a>
+            </div>
 
             <a id="header-btn" href="">Cadastrar-se</a>
         </nav>
@@ -28,31 +41,37 @@
     <main>
         <!-- About Section -->
         <section id="about-section">
-            <div>
-                <h2>As melhores hospedagens do Brasil</h2>
-                <p>Mais de 500 mil reservas esperando por você! Basta procurar pelo local ideal, e realizar a viagem dos
-                    seus sonhos</p>
-            </div>
+            <div id="layout-grid">
+                <div>
+                    <h2>As melhores hospedagens do Brasil</h2>
+                    <p>Mais de 500 mil reservas esperando por você! Basta procurar pelo local ideal, e realizar a viagem
+                        dos
+                        seus sonhos</p>
+                </div>
 
-            <img src="/assets/mapa-brasil.png" alt="">
+                <img src="/assets/mapa-brasil.png" alt="">
+            </div>
         </section>
 
-        <div id="filters-section">
+        <section class="filters-closed" id="filters-section">
+            <button id="filters-visibility-button" onclick="ButtonManager(this)">Filtros</button>
             <div id="layout-grid">
-                <form id="filters-form" action="">
+                <form class="desktop-always-show hide-mobile-element" id="filters-form" action="">
                     <div>
-                        <img src="" alt="">
+                        <img id="input-icon" src="assets/icons/local-icon.svg" alt="">
                         <input type="text" placeholder="Qual o local desejado?">
                     </div>
 
-                    <div>
-                        <img src="" alt="">
-                        <input type="date">
+                    <div class="date-input-box">
+                        <img id="input-icon" src="assets/icons/checkin-icon.png" alt="">
+                        <input id="checkin" type="text" placeholder="Date check in" onfocus="ConvertToDate(this)"
+                            onblur="ConvertToText(this)">
                     </div>
 
-                    <div>
-                        <img src="" alt="">
-                        <input type="date">
+                    <div class="date-input-box">
+                        <img id="input-icon" src="assets/icons/checkout-icon.png" alt="">
+                        <input id="checkout" type="text" placeholder="Data check out" onfocus="ConvertToDate(this)"
+                            onblur="ConvertToText(this)">
                     </div>
 
                     <div>
@@ -60,12 +79,12 @@
                     </div>
                 </form>
             </div>
-        </div>
+        </section>
 
         <!-- Travel Places Section -->
         <section id="travel-places-section">
             <div id="layout-grid">
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/angra-dos-reis.jpg" alt="">
 
                     <div id="titles">
@@ -77,7 +96,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/arraial-do-cabo.jpg" alt="">
 
                     <div id="titles">
@@ -89,7 +108,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/treze-tilias.jpg" alt="">
 
                     <div id="titles">
@@ -101,7 +120,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/ipanema.jpg" alt="">
 
                     <div id="titles">
@@ -113,7 +132,7 @@
                         conhecer.</p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/angra-dos-reis.jpg" alt="">
 
                     <div id="titles">
@@ -125,7 +144,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/arraial-do-cabo.jpg" alt="">
 
                     <div id="titles">
@@ -137,7 +156,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/treze-tilias.jpg" alt="">
 
                     <div id="titles">
@@ -149,7 +168,7 @@
                     </p>
                 </article>
 
-                <article id="place-card">
+                <article class="area-1" id="place-card">
                     <img id="card-img" src="assets/ipanema.jpg" alt="">
 
                     <div id="titles">
@@ -167,13 +186,15 @@
         <section id="promotions-section">
             <div id="layout-grid">
                 <div id="text-box">
-                    <h3>Venha conferir os melhores <span class="color-blue">hoteis</span> com as melhores <span
-                            class="color-green">promoções</span> do país</h3>
-                    <h4><span class="color-green">Não perca tempo</span> e venha conferir o que há de <span
-                            class="color-yellow">melhor</span> na hotelagem brasileira</h4>
+                    <h3 class="area-2">Venha conferir os melhores <span class="color-blue">hoteis</span> com as melhores
+                        <span class="color-green">promoções</span> do país
+                    </h3>
+                    <h4 class="area-3"><span class="color-green">Não perca tempo</span> e venha conferir o que há de
+                        <span class="color-yellow">melhor</span> na hotelagem brasileira
+                    </h4>
                 </div>
 
-                <img src="assets/travel.png" alt="">
+                <img class="area-3" src="assets/travel.png" alt="">
             </div>
         </section>
     </main>
@@ -186,11 +207,16 @@
             <p>(11) 0800-707-0707</p>
             <img id="bubble-img-snd" src="assets/bubbles-bg.png" alt="">
         </div>
-        
+
         <div id="lower-footer">
             <img src="assets/logo-preta.png" alt="">
         </div>
     </footer>
+
+    <script src="scripts/menu-hamburguer-interaction.js"></script>
+    <script src="scripts/filters-visibility-interaction.js"></script>
+    <script src="scripts/screen-reveal.js"></script>
+    <script src="scripts/string-date-placeholder.js"></script>
 </body>
 
 </html>

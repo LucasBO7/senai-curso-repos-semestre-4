@@ -1,0 +1,124 @@
+/* HEADER */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 5.625%;
+  height: 78px;
+
+  background: linear-gradient(95.24deg, #1e52b4 -10.53%, #002777 103.54%);
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+
+  /* background-color: red; */
+}
+
+header nav #navigation-links {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+header nav a {
+  font-family: Lato-Regular;
+  font-size: 14px;
+  font-weight: 500;
+  color: white;
+
+  transition: color 0.2s;
+}
+
+header nav a:hover {
+  color: #7499de;
+  border-color: #7499de !important;
+}
+
+header #header-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 8px;
+  border: 1px solid white;
+
+  width: 151px;
+  height: 35px;
+  opacity: 0px;
+}
+
+/* Checkbox animated */
+
+header #menu-hamburguer-box {
+  display: none;
+  position: absolute;
+  left: 5.6%;
+}
+
+#checkbox {
+  display: none;
+}
+
+.toggle {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition-duration: 0.5s;
+}
+
+.bars {
+  width: 100%;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+}
+
+#bar2 {
+  transition-duration: 0.8s;
+}
+
+#bar1,
+#bar3 {
+  width: 70%;
+}
+
+#checkbox:checked + .toggle .bars {
+  position: absolute;
+  transition-duration: 0.5s;
+}
+
+#checkbox:checked + .toggle #bar2 {
+  transform: scaleX(0);
+  transition-duration: 0.5s;
+}
+
+#checkbox:checked + .toggle #bar1 {
+  width: 100%;
+  transform: rotate(45deg);
+  transition-duration: 0.5s;
+}
+
+#checkbox:checked + .toggle #bar3 {
+  width: 100%;
+  transform: rotate(-45deg);
+  transition-duration: 0.5s;
+}
+
+#checkbox:checked + .toggle {
+  transition-duration: 0.5s;
+  transform: rotate(180deg);
+}
