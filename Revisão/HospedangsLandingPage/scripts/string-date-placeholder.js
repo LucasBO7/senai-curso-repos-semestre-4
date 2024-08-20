@@ -3,7 +3,5 @@ function ConvertToDate(e) {
 }
 
 function ConvertToText(e) {
-  console.log(e.type);
-
   e.type == "date" && !e.value ? e.type = "text" : null;
 }

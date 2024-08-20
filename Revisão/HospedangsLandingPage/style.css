@@ -180,7 +180,7 @@
   }
 
   .nav-box-closed {
-    left: -40vh !important;
+    left: -100vw !important;
   }
 
   .nav-box-opened {
@@ -229,6 +229,10 @@
   /* Footer */
   footer #upper-footer h5 {
     text-align: center;
+  }
+
+  footer #upper-footer #bubble-img-snd{
+    display: none;
   }
 }
 

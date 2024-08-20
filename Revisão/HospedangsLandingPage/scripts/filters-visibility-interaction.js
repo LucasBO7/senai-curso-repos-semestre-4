@@ -1,9 +1,9 @@
 // Busca o botão "Filtros" pelo id "filters-visibility-button"
-var filterButton = document.getElementById("filters-visibility-button");
+const filterButton = document.getElementById("filters-visibility-button");
 // Busca o form cuja visiblidade será manipulada por meio do botão "Filtros"
-var formFilters = document.getElementById("filters-form");
+const formFilters = document.getElementById("filters-form");
 
-var sectionFiltersBox = document.getElementById("filters-section");
+const sectionFiltersBox = document.getElementById("filters-section");
 
 // Adiciona um evento de click no botão "Filtros"
 filterButton.onclick = () => {
