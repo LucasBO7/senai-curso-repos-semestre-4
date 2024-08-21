@@ -1,18 +1,37 @@
 import styled from "styled-components";
+import '../../assets/fonts/fonts-import.css'
 
-export const TextInputFst = styled.input`
+export const SearchButton = styled.button`
+  background-color: transparent;
+  padding: 5px;
+`;
+
+export const InputContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0 5px;
+  max-width: 310px;
   width: 80%;
+
+  background-color: #1E123B;
+  border-radius: 8px;
+  border: 2px solid white;
+`;
+
+export const Input = styled.input`
+  width: 100%;
   height: 42px;
   padding: 10px;
 
-  border-radius: 8px;
-  border: 2px solid white;
-
   color: white;
+  background-color: transparent;
+
+  font-family: 'Roboto';
+
   font-size: 15.5px;
-  background-color: #1E123B;
-`;
-
-export const InputIcon = styled.img`
-  color: white;
+  text-decoration: none;
+  border: 0 none;
+  outline: 0;
 `;
