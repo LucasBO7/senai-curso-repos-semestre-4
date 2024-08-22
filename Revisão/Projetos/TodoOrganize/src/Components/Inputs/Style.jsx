@@ -35,3 +35,21 @@ export const Input = styled.input`
   border: 0 none;
   outline: 0;
 `;
+
+
+export const BorderedInput = styled.textarea`
+  width: ${props => props.width};
+  height: ${props => props.height};
+  padding: 10px;
+  resize: none;
+
+  color: white;
+  background-color: #1E123B;
+  border-radius: 8px;
+  border: 2px solid white;
+
+  text-align: start;
+
+  font-family: 'Roboto';
+
+`;

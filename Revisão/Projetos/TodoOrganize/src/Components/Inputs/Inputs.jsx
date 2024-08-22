@@ -1,7 +1,8 @@
-import { InputContainer, Input, SearchButton } from "./Style"
+/* eslint-disable react/prop-types */
+import { InputContainer, Input, SearchButton, BorderedInput } from "./Style"
 import { IoIosSearch } from "react-icons/io";
 
-export const TextInput = () => {
+export const IconTextInput = () => {
     return (
         <InputContainer>
             <SearchButton>
@@ -9,5 +10,19 @@ export const TextInput = () => {
             </SearchButton>
             <Input placeholder="Procurar tarefa..." />
         </InputContainer>
+    )
+}
+
+export const TextInput = ({ width, height, value, setNewTask, newTask }) => {
+
+    return (
+        <BorderedInput
+            width={width}
+            height={height}
+            value={value}
+            placeholder="Insira a descrição da tarefa..."
+
+            onChange={(text) => setNewTask({ ...newTask, description: text.target.value })}
+        />
     )
 }

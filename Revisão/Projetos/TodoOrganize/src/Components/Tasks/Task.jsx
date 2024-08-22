@@ -6,7 +6,7 @@ import { ActionsContainer } from "../Containers/Container";
 import { EditBtn } from "../Buttons/Animated/EditBtn";
 import { RemoveBtn } from "../Buttons/Animated/RemoveBtn";
 
-export const Task = ({ task, tasks, setTasks, onRemoveClick }) => {
+export const Task = ({ task, tasks, setTasks, onRemoveClick, onEditClick }) => {
   const { isDone } = task;
   const index = tasks.findIndex(
     (e) => JSON.stringify(e) === JSON.stringify(task)
@@ -25,10 +25,10 @@ export const Task = ({ task, tasks, setTasks, onRemoveClick }) => {
         }}
       />
 
-      <TaskTitle isChecked={task.isDone}>{task.title}</TaskTitle>
+      <TaskTitle isChecked={task.isDone}>{task.description}</TaskTitle>
 
       <ActionsContainer>
-        <EditBtn />
+        <EditBtn onClick={() => onEditClick(index)} />
         <RemoveBtn onClick={() => onRemoveClick(index)} />
       </ActionsContainer>
     </ContainerTask>
