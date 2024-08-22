@@ -6,27 +6,31 @@ import { ActionsContainer } from "../Containers/Container";
 import { EditBtn } from "../Buttons/Animated/EditBtn";
 import { RemoveBtn } from "../Buttons/Animated/RemoveBtn";
 
-export const Task = ({ task }) => {
-    return (
-        <ContainerTask>
-            <Check
-                checked={task.isDone}
-                onClick={() => {
-                    if (task.isDone) {
-                        task.isDone = false;
-                    } else {
-                        task.isDone = true;
-                    }
-                }}
-            />
+export const Task = ({ task, tasks, setTasks, onRemoveClick }) => {
+  const { isDone } = task;
+  const index = tasks.findIndex(
+    (e) => JSON.stringify(e) === JSON.stringify(task)
+  );
 
-            <TaskTitle>{task.title}</TaskTitle>
+  return (
+    <ContainerTask isChecked={task.isDone}>
+      <Check
+        checked={task.isDone}
+        onClick={() => {
+          if (index >= 0) {
+            const newTasks = [...tasks];
+            newTasks[index] = { ...task, isDone: isDone ? false : true };
+            setTasks(newTasks);
+          }
+        }}
+      />
 
-            <ActionsContainer>
-                <EditBtn />
-                <RemoveBtn />
-            </ActionsContainer>
+      <TaskTitle isChecked={task.isDone}>{task.title}</TaskTitle>
 
-        </ContainerTask>
-    );
-}
+      <ActionsContainer>
+        <EditBtn />
+        <RemoveBtn onClick={() => onRemoveClick(index)} />
+      </ActionsContainer>
+    </ContainerTask>
+  );
+};
