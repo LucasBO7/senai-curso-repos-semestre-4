@@ -132,7 +132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N0kGdqxevs9-UsoWOtHk" name="UML - Classe">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
         <mxCell id="QP5b6zn-IpImXBu_HWyj-41" value="&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;" parent="QP5b6zn-IpImXBu_HWyj-38" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RQ-brLiYPZyt5B6VpKAW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="QP5b6zn-IpImXBu_HWyj-42" target="QP5b6zn-IpImXBu_HWyj-16" edge="1">
+        <mxCell id="RQ-brLiYPZyt5B6VpKAW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" parent="1" source="QP5b6zn-IpImXBu_HWyj-42" target="QP5b6zn-IpImXBu_HWyj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QP5b6zn-IpImXBu_HWyj-42" value="Establishment" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -315,7 +315,7 @@
           <mxGeometry x="695" y="627" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RQ-brLiYPZyt5B6VpKAW-3" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="572" width="30" height="30" as="geometry" />
+          <mxGeometry x="792" y="581" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RQ-brLiYPZyt5B6VpKAW-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="128" width="30" height="30" as="geometry" />
