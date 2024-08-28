@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N0kGdqxevs9-UsoWOtHk" name="UML - Classe">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
         <mxCell id="QP5b6zn-IpImXBu_HWyj-54" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="343" y="256" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QP5b6zn-IpImXBu_HWyj-55" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="QP5b6zn-IpImXBu_HWyj-55" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="122" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QP5b6zn-IpImXBu_HWyj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="QP5b6zn-IpImXBu_HWyj-1" edge="1">
@@ -313,7 +313,7 @@
         <mxCell id="QP5b6zn-IpImXBu_HWyj-61" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="627" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RQ-brLiYPZyt5B6VpKAW-3" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="RQ-brLiYPZyt5B6VpKAW-3" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="572" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RQ-brLiYPZyt5B6VpKAW-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
@@ -323,7 +323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_WSPb0hM7KOEPY-JOml" name="Diagramas">
-    <mxGraphModel dx="1668" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3380" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
