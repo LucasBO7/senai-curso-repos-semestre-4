@@ -323,12 +323,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_WSPb0hM7KOEPY-JOml" name="Diagramas">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GDoj00g1DGCXsHXV1KNp-1" value="MER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="354" y="33" width="70" height="40" as="geometry" />
+        <mxCell id="GDoj00g1DGCXsHXV1KNp-1" value="MER (Modelo Entidade Relacionamento)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="333" y="180" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Do9o0LYqxAp4ncPCpIDP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZmOcPCDy8d1Q8E4F5KBO-1" target="Do9o0LYqxAp4ncPCpIDP-2">
           <mxGeometry relative="1" as="geometry">
@@ -432,6 +432,18 @@
         </mxCell>
         <mxCell id="Do9o0LYqxAp4ncPCpIDP-32" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="678" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Do9o0LYqxAp4ncPCpIDP-33" value="DER (Diagrama Entidade-Relacionamento)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="333" y="800" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Do9o0LYqxAp4ncPCpIDP-35" value="CONCEITUAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="472" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Do9o0LYqxAp4ncPCpIDP-36" value="LÓGICO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="881" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Do9o0LYqxAp4ncPCpIDP-37" value="FÍSICO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
