@@ -11,4 +11,5 @@ Repositório para o terceiro trimestre do curso Técnico de Desenvolvimento de S
 ## Revisão
 Matéria de revisão de todo o conteúdo apresentado durante o curso.
 - **Exercicios Revisao -->** exercícios de lógica de programação com projetos console simples.
-- **TravelingLandingPage -->** exercício de criação de uma landing page completa com HTML CSS e JS.
+- **Projetos/TravelingLandingPage -->** landing page completa e responsiva com HTML CSS e JS.
+- **Projetos/TodoOrganize -->** site todo-list responsivo com crud completo e pesquisa.
