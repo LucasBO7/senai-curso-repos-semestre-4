@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj": {}
+    "C:\\Users\\Batata Voadora\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj": {
+    "C:\\Users\\Batata Voadora\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Batata Voadora\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj",
         "projectName": "ProductManagerWebApi",
-        "projectPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj",
-        "packagesPath": "C:\\Users\\41365718875\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\41365718875\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\obj\\",
+        "projectPath": "C:\\Users\\Batata Voadora\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\ProductManagerWebApi.csproj",
+        "packagesPath": "C:\\Users\\Batata Voadora\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batata Voadora\\Desktop\\senai-curso-repos-trimestre-3\\Sprint 2 - Testes de software\\ProductManagerWebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\41365718875\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Batata Voadora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,6 +68,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.71, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -87,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
