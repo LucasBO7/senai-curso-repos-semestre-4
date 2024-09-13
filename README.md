@@ -1,4 +1,4 @@
-# senai-curso-repos-trimestre-3
+# senai-curso-repos-semestre-4
 Repositório para o terceiro trimestre do curso Técnico de Desenvolvimento de Sistemas na Escola Senai Paulo Skaf. A partir de 24/07/2024
 
 ## Banco não relacional - Sprint 1
